@@ -1,4 +1,5 @@
-# DIY-List
-
-Project in progress: Title inspired from Animal Crossing's "DIY recipes", DIY List app is a to-do list for kids. The theme will be around Pikachu.
+# DIY TO DO LIST
+This DIY List app with a Pikachu color-theme is a to-do list for kids.
 This app functions like a standard to-do list, but looks more fun and colorful.
+The title is inspired from Animal Crossing's "DIY recipe."
+Tech: React app
